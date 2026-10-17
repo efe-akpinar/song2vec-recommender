@@ -1,0 +1,40 @@
+# Data (download separately, see README)
+data/
+*.idomaar
+*.csv
+*.zip
+*.gz
+*.npy
+
+# Trained models and indexes
+*.model
+*.model.*
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+checkpoint-*/
+*.faiss
+*.index
+
+# Documents
+*.pdf
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS and editors
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+
+# Local tooling
+.claude/
+CLAUDE.md

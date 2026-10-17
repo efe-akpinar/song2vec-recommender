@@ -1,0 +1,5 @@
+gensim==4.4.0
+numpy
+matplotlib
+scikit-learn
+tqdm
